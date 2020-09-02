@@ -4,11 +4,12 @@
   <groupId>com.qq.e</groupId>
   <artifactId>gdt</artifactId>
   <versioning>
-    <release>4.211.1081</release>
+    <release>4.251.1121</release>
     <versions>
       <version>4.211.1081</version>
+      <version>4.251.1121</version>
     </versions>
-    <lastUpdated>20200529091623</lastUpdated>
+    <lastUpdated>20200902091623</lastUpdated>
   </versioning>
 </metadata>
 
