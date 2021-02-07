@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.ksad.sdk</groupId>
   <artifactId>ks</artifactId>
-  <version>3.3.4.2</version>
+  <version>3.3.6.5</version>
   <packaging>aar</packaging>
   <dependencies></dependencies>
 </project>
